@@ -1,0 +1,156 @@
+Pergunta 1:
+
+Qual técnica de aprendizado de máquina é capaz de criar uma hipótese a partir de experiência passada para resolver um problema?
+
+a) Modelo Pandemonium de Selfridge
+b) Redes Neurais
+c) Algoritmo ID3
+d) Aprendizado por Reforço
+e) Sistemas especialistas
+
+Resposta: b) Redes Neurais
+
+Pergunta 2:
+
+Qual foi o marco que demonstrou as limitações do Perceptron, realizado por Minsky e Papert?
+
+a) Reconhecimento de padrões
+b) Aprendizado por meio de ajustes de pesos
+c) Indução simbólica de conceitos
+d) Algoritmo ID3
+e) Explicação baseada em aprendizado
+
+Resposta: c) Indução simbólica de conceitos
+
+Pergunta 3:
+
+Qual técnica de aprendizado de máquina é caracterizada pelo processo de explicação-baseada?
+
+a) Aprendizado de Regras
+b) Ensembles
+c) Mineração de Dados
+d) Agentes de software adaptativos
+e) Aprendizado por redes bayesianas
+
+Resposta: a) Aprendizado de Regras
+
+Pergunta 4:
+
+Quando ocorreu o ressurgimento das Redes Neurais com a técnica de backpropagation?
+
+a) 1952
+b) 1969
+c) 1986
+d) 1996
+e) 2000
+
+Resposta: c) 1986
+
+Pergunta 5:
+
+Qual teoria proporciona uma estrutura para a análise matemática do Aprendizado de Máquina, enfocando metodologia de experimentos?
+
+a) Teoria de Aprendizado PAC
+b) Aprendizado por Reforço
+c) Computação Bioinspirada
+d) ILP
+e) Mineração de Textos
+
+Resposta: a) Teoria de Aprendizado PAC
+
+Pergunta 6:
+
+Que técnica de aprendizado de máquina é inspirada no funcionamento do sistema nervoso humano?
+
+a) Aprendizado por meio de ajustes de pesos
+b) Algoritmo ID3
+c) Ensembles
+d) Aprendizado por redes bayesianas
+e) Computação Bioinspirada
+
+Resposta: e) Computação Bioinspirada
+
+
+Pergunta 7:
+
+Qual técnica de aprendizado de máquina é conhecida por utilizar a abordagem de lucro a partir de dados?
+
+a) Aprendizado por Reforço
+b) Mineração de Dados
+c) Agentes de software adaptativos
+d) ILP (Inductive Logic Programming)
+e) Ensembles
+
+Resposta: b) Mineração de Dados
+
+Pergunta 8:
+
+Qual é o conceito-chave associado à lógica de fuzzy?
+
+a) Precisão absoluta
+b) Binário
+c) Flexibilidade
+d) Booleano
+e) Exatidão
+
+Resposta: c) Flexibilidade
+
+Pergunta 9:
+
+Como a lógica de fuzzy difere da lógica booleana tradicional?
+
+a) Na sua incapacidade de lidar com incertezas
+b) Por ser estritamente binária
+c) Pela sua inflexibilidade na representação de conceitos vagos
+d) Na sua capacidade de representar incertezas e conceitos vagos
+e) Por ser exclusivamente qualitativa
+
+Resposta: d) Na sua capacidade de representar incertezas e conceitos vagos
+
+Pergunta 10:
+
+Qual é o termo utilizado para descrever a operação de aplicação da lógica de fuzzy em sistemas de controle?
+
+a) Fuzzificação
+b) Clarificação
+c) Defuzzificação
+d) Vagificação
+e) Fuzzyficação
+
+Resposta: a) Fuzzificação
+
+Pergunta 11:
+
+Quais são os elementos-chave da lógica de fuzzy?
+
+a) Valores nítidos e operadores booleanos
+b) Variáveis crisp e regras difusas
+c) Incerteza e imprecisão
+d) Intuição e subjetividade
+e) Conectivos lógicos e tabelas verdade
+
+Resposta: b) Variáveis crisp e regras difusas
+
+Pergunta 12:
+
+Como a lógica de fuzzy lida com o problema da imprecisão?
+
+a) Ignorando-a
+b) Convertendo-a em valores booleanos
+c) Aumentando a complexidade do sistema
+d) Representando-a em termos de graus de pertinência
+e) Reduzindo a dimensionalidade do problema
+
+Resposta: d) Representando-a em termos de graus de pertinência
+
+Pergunta 13:
+
+Qual é o principal objetivo da lógica de fuzzy em sistemas de controle?
+
+a) Minimizar a incerteza
+b) Maximizar a precisão
+c) Modelar sistemas exatos
+d) Lidar com imprecisões e incertezas de forma robusta
+e) Simplificar a lógica booleana
+
+Resposta: d) Lidar com imprecisões e incertezas de forma robusta
